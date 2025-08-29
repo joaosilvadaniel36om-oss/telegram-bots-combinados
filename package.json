@@ -1,0 +1,14 @@
+{
+  "name": "telegram-bots-combinados",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "telegraf": "^4.12.2",
+    "@telegraf/scenes": "^2.6.0",
+    "@telegraf/session": "^2.0.0-beta.6",
+    "express": "^4.17.1"
+  }
+}
